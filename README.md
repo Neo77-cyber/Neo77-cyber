@@ -2,6 +2,19 @@
 
  I'm [Ikponmwosa]! 👋
 
+- I'm a passionate software engineer with a strong interest in the security of software solutions. I'm based in [Lagos], [Nigeria].
+- 🌱 I’m currently learning Artificial Intelligence
+- 👯 I’m looking to collaborate on Open source software projects
+- 📫 Hit me up on my various social media handles 🔭:
+- 
+## Contact Me
+- Website: [Your Website]
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/enabulele-ikponmwosa)
+- Twitter: [Your Twitter Profile](https://twitter.com/Neocodez)
+- WhatsApp: [Your WhatsApp Number](https://wa.me/+2348145858941)
+
+Feel free to explore my repositories and get in touch with me if you have any questions or collaboration opportunities. I'm always excited to connect with fellow developers and enthusiasts!
+
 <!--
 **Neo77-cyber/Neo77-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,23 +31,7 @@ Here are some ideas to get you started:
 
 
 
-## About Me
-I'm a passionate [Your Profession/Interests] based in [Your Location]. I love [Your Interests/Hobbies] and enjoy working on [Your Projects/Technologies].
 
-## Projects
-- [Project 1](https://github.com/your-username/project-1): Brief description of the project.
-- [Project 2](https://github.com/your-username/project-2): Brief description of the project.
-- [Project 3](https://github.com/your-username/project-3): Brief description of the project.
 
-## Skills
-- Programming languages: [List of Programming Languages]
-- Technologies and Tools: [List of Technologies and Tools]
-
-## Contact Me
-- Website: [Your Website]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-
-Feel free to explore my repositories and get in touch with me if you have any questions or collaboration opportunities. I'm always excited to connect with fellow developers and enthusiasts!
 
 
