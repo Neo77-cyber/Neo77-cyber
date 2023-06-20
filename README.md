@@ -6,11 +6,10 @@
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on Open source software projects
 - 📫 Hit me up on my various social media handles 🔭:
-
-- Website: [Your Website]
-- LinkedIn: (https://www.linkedin.com/in/enabulele-ikponmwosa)
-- Twitter: [Twitter Profile](https://twitter.com/Neocodez)
-- WhatsApp: [My WhatsApp Number](https://wa.me/+2348145858941)
+ 
+- [Linkedin](https://www.linkedin.com/in/enabulele-ikponmwosa)
+- [Twitter](https://twitter.com/Neocodez)
+- [My WhatsApp Number](https://wa.me/+2348145858941)
 
 Feel free to explore my repositories and get in touch with me if you have any questions or collaboration opportunities. I'm always excited to connect with fellow developers and enthusiasts!
 
