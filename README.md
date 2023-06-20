@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm [Ikponmwosa]! 👋
+ I'm Ikponmwosa! 👋
 
 - I'm a passionate software engineer with a strong interest in the security of software solutions. I'm based in [Lagos], [Nigeria].
 - 🌱 I’m currently learning Artificial Intelligence
