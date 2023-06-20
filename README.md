@@ -8,7 +8,7 @@
 - 📫 Hit me up on my various social media handles 🔭:
 
 - Website: [Your Website]
-- LinkedIn: [LinkedIn Profil](https://www.linkedin.com/in/enabulele-ikponmwosa)
+- LinkedIn: (https://www.linkedin.com/in/enabulele-ikponmwosa)
 - Twitter: [Twitter Profile](https://twitter.com/Neocodez)
 - WhatsApp: [My WhatsApp Number](https://wa.me/+2348145858941)
 
