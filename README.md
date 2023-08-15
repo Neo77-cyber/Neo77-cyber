@@ -2,7 +2,7 @@
 
  I'm [Ikponmwosa](https://myportfolio-2088.onrender.com/) 👋
 
-- I'm a passionate software engineer with a strong interest in the security of software solutions. I'm based in Lagos, Nigeria.
+- I'm a passionate software engineer with a focus on creating efficient and user-centered software solutions. I'm based in Lagos, Nigeria.
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on Open source software projects
 - 📫 Hit me up on my various social media handles 🔭:
